@@ -31,7 +31,7 @@ jobs:
 
               cd ~/test-260708
 
-              git pull origin mainß
+              git pull origin main
               npm install
               npm run build
               pm2 restart next-app
